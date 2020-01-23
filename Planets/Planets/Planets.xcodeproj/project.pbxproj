@@ -15,6 +15,7 @@
 		DD9FD02323D9BC5000D9665A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD9FD02123D9BC5000D9665A /* LaunchScreen.storyboard */; };
 		DD9FD02623D9BC5000D9665A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DD9FD02523D9BC5000D9665A /* main.m */; };
 		DD9FD02E23D9BE6800D9665A /* LSIPlanetsCollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DD9FD02D23D9BE6800D9665A /* LSIPlanetsCollectionViewController.m */; };
+		DDF1974323D9C75A00FCD373 /* LSIPlanetsCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DDF1974223D9C75A00FCD373 /* LSIPlanetsCollectionViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,8 @@
 		DD9FD02523D9BC5000D9665A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		DD9FD02C23D9BE6800D9665A /* LSIPlanetsCollectionViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LSIPlanetsCollectionViewController.h; sourceTree = "<group>"; };
 		DD9FD02D23D9BE6800D9665A /* LSIPlanetsCollectionViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LSIPlanetsCollectionViewController.m; sourceTree = "<group>"; };
+		DDF1974123D9C75A00FCD373 /* LSIPlanetsCollectionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LSIPlanetsCollectionViewCell.h; sourceTree = "<group>"; };
+		DDF1974223D9C75A00FCD373 /* LSIPlanetsCollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LSIPlanetsCollectionViewCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,8 @@
 				DD9FD01A23D9BC4A00D9665A /* ViewController.m */,
 				DD9FD02C23D9BE6800D9665A /* LSIPlanetsCollectionViewController.h */,
 				DD9FD02D23D9BE6800D9665A /* LSIPlanetsCollectionViewController.m */,
+				DDF1974123D9C75A00FCD373 /* LSIPlanetsCollectionViewCell.h */,
+				DDF1974223D9C75A00FCD373 /* LSIPlanetsCollectionViewCell.m */,
 				DD9FD01C23D9BC4A00D9665A /* Main.storyboard */,
 				DD9FD01F23D9BC5000D9665A /* Assets.xcassets */,
 				DD9FD02123D9BC5000D9665A /* LaunchScreen.storyboard */,
@@ -157,6 +162,7 @@
 				DD9FD01523D9BC4A00D9665A /* AppDelegate.m in Sources */,
 				DD9FD02623D9BC5000D9665A /* main.m in Sources */,
 				DD9FD01823D9BC4A00D9665A /* SceneDelegate.m in Sources */,
+				DDF1974323D9C75A00FCD373 /* LSIPlanetsCollectionViewCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
